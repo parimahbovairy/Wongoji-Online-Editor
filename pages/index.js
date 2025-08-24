@@ -48,7 +48,7 @@ export default function Home() {
 
       {/* شمارش کاراکتر */}
       <div className="mb-2 text-gray-700">
-        کاراکترها: {charCount} / {maxChars}
+        کاراکترها:  {maxChars} / {charCount}
       </div>
 
       {/* ناحیه ورودی متن */}
